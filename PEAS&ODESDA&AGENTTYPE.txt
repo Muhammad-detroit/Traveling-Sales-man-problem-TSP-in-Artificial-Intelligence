@@ -1,0 +1,25 @@
+Agent tybe:Software agent
+......
+
+Performance:visit all cities each city just once and find the shortest route
+
+Environment:Personal machine
+
+Actuators:Screen display(map,graph,solution genrator button)
+
+Sensors:Keyboard,mouse
+
+........
+
+Observable
+
+Determinstic
+
+Sequential
+
+Semi dynamic
+
+Discrete
+
+Single agent
+	

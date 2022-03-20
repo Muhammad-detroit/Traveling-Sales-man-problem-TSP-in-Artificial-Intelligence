@@ -1,15 +1,20 @@
-Agent tybe:Utility-Based agent
+Agent tybe:
+Utility-Based agent
 Expaination:
 Because our goal is that the agent must visit each city once but also go through the shortest path,that means it should reach the goal fast! and for that the utility-based agent fits.
 ......
 
-Performance:visit all cities each city just once and find the shortest route
+Performance:
+visit all cities each city just once and find the shortest route
 
-Environment:Personal machine
+Environment:
+Personal machine
 
-Actuators:Screen display(map,graph,solution genrator button)
+Actuators:
+Screen display(map,graph,solution genrator button)
 
-Sensors:Keyboard,mouse
+Sensors:
+Keyboard,mouse
 
 ........
 

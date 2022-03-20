@@ -1,7 +1,7 @@
 Agent tybe:
-Utility-Based agent
+Goal-Based agent
 Expaination:
-Because our goal is that the agent must visit each city once but also go through the shortest path,that means it should reach the goal fast! and for that the utility-based agent fits.
+Because we aim that the agent must visit each city once but also go through the shortest path,that means our agent is goal driven and the goal-based agent fits.
 ......
 
 Performance:
@@ -18,13 +18,13 @@ Keyboard,mouse
 
 ........
 
-Observable
+Fully observable
 
 Determinstic
 
 Sequential
 
-Semi dynamic
+Static
 
 Discrete
 

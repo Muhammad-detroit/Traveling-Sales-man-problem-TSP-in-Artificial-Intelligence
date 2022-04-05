@@ -1,0 +1,7 @@
+Problem formulation:
+-----------------------
+Initial state : Move between cities in less time
+Action : Go to the first city, then the next city closest to it, then the closest ...
+Transition model : Move to the city closest to me
+Goal test : Move from A to Z in the shortest time and shortest way
+path cost : The shortest and fastest way, the least time
